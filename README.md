@@ -44,7 +44,7 @@ To run the Jupyter Notebook, you will need to have Python and the necessary quan
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/AyomideOlumideAttah/Quantum-Galton-Boards.git](https://github.com/AyomideOlumideAttah/Quantum-Galton-Boards.git)
-    cd your-repo-name
+    cd AyomideOlumideAttah
     ```
 
 2.  **Create and activate a virtual environment (optional but recommended):**
