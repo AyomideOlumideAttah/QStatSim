@@ -30,7 +30,7 @@ The core advantage highlighted is the quantum circuit's ability to calculate $2^
 ## Repository Contents
 
 * **Two-page summary** demonstrating our team's understanding of the aforementioned paper, as well as outlining the method of implementing and generalizing the algorithm.
-* `Quantum Galton Board.ipynb`: A Jupyter Notebook containing the Qiskit implementations of:
+* `quantum_galton_board_sim.ipynb`: A Jupyter Notebook containing the Qiskit implementations of:
     * The basic `qpeg` module.
     * `nth_level_QGB` for standard QGB simulations.
     * `exponential_QGB` for biased QGB simulations with an exponential decay bias.
