@@ -29,7 +29,7 @@ The core advantage highlighted is the quantum circuit's ability to calculate $2^
 
 ## Repository Contents
 
-* `Universal Statistical Simulator.pdf`: The original research paper detailing the theoretical foundations and design principles of the quantum Galton board and its extension to a universal statistical simulator.
+* **Two-page summary** demonstrating our team's understanding of the aforementioned paper, as well as outlining the method of implementing and generalizing the algorithm.
 * `Quantum Galton Board.ipynb`: A Jupyter Notebook containing the Qiskit implementations of:
     * The basic `qpeg` module.
     * `nth_level_QGB` for standard QGB simulations.
