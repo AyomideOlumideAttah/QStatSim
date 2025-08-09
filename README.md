@@ -1,6 +1,6 @@
 # Quantum Galton Board: Road to a Universal Statistical Simulator
 
-This repository contains a Jupyter Notebook (`Quantum Galton Board.ipynb`) that implements various quantum Galton board (QGB) circuits, building upon the principles detailed in the research paper "Universal Statistical Simulator.pdf" by Mark Carney and Ben Varcoe. The project aims to provide an intuitive and efficient demonstration of exponential speedup offered by quantum processors for statistical simulations.
+This project implements various quantum simulations of the Galton board (GB), building upon the principles detailed in [this research paper](https://arxiv.org/abs/2202.01735) by Mark Carney and Ben Varcoe. The project aims to provide an intuitive and efficient demonstration of the exponential speedup offered by quantum processors for statistical simulations.
 
 ## Project Overview
 
