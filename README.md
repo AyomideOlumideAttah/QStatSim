@@ -20,8 +20,8 @@ The notebook explores different variants of the Quantum Galton Board, each offer
 
 2.  **Biased Quantum Galton Board (B-QGB)**:
     * **Control over Distribution:** Introduces bias to the output distribution, moving beyond the uniform probabilities of a standard QGB.
-    * **Mechanism:** Achieved by replacing the Hadamard gate in the "quantum peg" module with an $R_x(\theta)$ rotation gate[cite: 1]. [cite_start]The angle $\theta$ directly controls the bias (e.g., $\theta = 2\pi/3$ for a 75% bias towards one output branch)[cite: 1].
-    * **Gate Count:** The maximum gate count for an $n$-level biased QGB is approximately $3(n^2+n)+n+2$ gates, accounting for additional RESET and $R_x(\theta)$ gates per peg row[cite: 1].
+    * **Mechanism:** Achieved by replacing the Hadamard gate in the "quantum peg" module with an $R_x(\theta)$ rotation gate[cite: 1]. [cite_start]The angle $\theta$ directly controls the bias (e.g., $\theta = 2\pi/3$ for a 75% bias towards one output branch).
+    * **Gate Count:** The maximum gate count for an $n$-level biased QGB is approximately $3(n^2+n)+n+2$ gates, accounting for additional RESET and $R_x(\theta)$ gates per peg row.
 
 ## Exponential Speedup
 
